@@ -18,6 +18,7 @@
     "@langchain/openai": "^1.0.0",
     "@langchain/textsplitters": "^1.0.0",
     "chromadb": "^3.1.1",
+    "cors": "^2.8.5",
     "express": "^5.1.0",
     "multer": "^2.0.2",
     "nodemon": "^3.1.10",
